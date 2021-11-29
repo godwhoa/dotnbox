@@ -21,4 +21,4 @@ npm start
 
 
 ### Screenshot
-![screenshot of the game](/images/dotnbox.png)
+![screenshot of the game](https://i.imgur.com/tOox3FV.png)
