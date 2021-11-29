@@ -1,0 +1,7 @@
+- [x] Logging
+- [x] Room creation endpoint
+- [x] Rooms GC
+- [x] Find and squash any data races
+- [ ] Tests for dotsnbox package
+- [ ] Explore actor-like implemetation for room/game
+- [ ] Setting and changing nick
